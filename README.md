@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Zaz4za
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Denisson
+Estou estudando na alura (https://cursos.alura.com.br/dashboard)
+Estou me desenvolvendo na linguagem JavaScript 
+Utilizo esse local para realizar as atividades e compartilhar os meus projetos
 
-<!---
-Zaz4za/Zaz4za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Entre em contato comigo por**
+@dedenisdenisson@gmail.com
+
+@xx_zaz4za
